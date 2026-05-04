@@ -1,5 +1,5 @@
 ---
-title: "Anti-Fascist Biography 2"
+title: "Marion Phillippina Pritchard"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
@@ -7,88 +7,27 @@ position: 2
 summary: Another biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Biography 2
+## Early Life
 
-Every food has a story. Most have a thousand years of evolution. Nachos? Born in 1943 at a single moment of improvisation in a small café near the Texas-Mexico border. What makes this story fascinating is not how old nachos are, but how *young* they are—and yet how deeply they've embedded themselves in American culture.
+Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterdam to vehemently anti-Nazi parents. From the beginning she had opposed the Nazi regime, but was eventually encouraged to take action when she bore witness to Nazi soldiers violently rounding up Jewish children for deportation. The preceding year, Pritchard, only nineteen, had spent six months in prison for illegally listening to the BBC at a peers house. However, it wasn’t until she was released and bore witness to the abduction of small children off the streets where she grew up that she decided to take action. "I was shocked and in tears, and after that I knew my rescue work was more important than anything else I might be doing"
 
-## The Origin Myth
+## Resistance Work
 
-{% capture nachos_origin_text %}
-The year was 1943. The location: the Victory Club (also called Nacho's Restaurant), in Piedras Negras, Mexico, just across the Río Grande from Eagle Pass, Texas. A group of military wives from the nearby base—hungry, adventurous, probably tired of official dining—wandered into the restaurant after it had technically closed for the evening.
-
-Rather than turn them away, the owner (Ignacio "Nacho" Anaya) improvised. He took the kitchen's remaining ingredients: tortilla chips, melted cheese, sliced jalapeños—and created something entirely new.
-
-The dish was named after its creator: *los nachos de Ignacio* became simply *nachos*.
-{% endcapture %}
-
-{% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
-  image-position="right"
-  image-width="50%"
-  caption="Piedras Negras sits just across the river from Eagle Pass, Texas. A strategic location for food invention."
-  text=nachos_origin_text
-%}
-
-{% include typography/pullquote.html text="\"The wives loved them. Word spread. Soldiers stationed at the base became regulars. And a snack was born not from tradition, but from hospitality and improvisation.\"" %}
-
-But here's where it gets complicated: nearly every element of this story has been questioned, refined, disputed, and occasionally reinvented by food historians. Was it really 1943? Was Ignacio Anaya the true creator, or one of several innovators working in the same border region? Did it matter?
+Working with the Dutch underground, Marion aided approximately 150 jewish refugees. She used her connections at the Amsterdam School of Social Work to find and train families that could conceal children and families. She shuttled children from family to family and place to place. She registered babies as her own kids to hide their jewish ancestry. The Landelijke Organisitie helped her supply food for families in hiding. And she used her connections with the resistance to supply ration cards and false identification papers for adults. As the situation got worse, she was required to do more dangerous tasks. Such as delivering packages to the northern part of the country. During one of these dispatches, she became responsible for a displaced child, and upon arriving at her destination found out that the recipients of her package had been arrested, leaving her stranded. She was forced to take refuge with a stranger to protect both her and the baby. Much of her activities revolved around protecting children, who she felt suffered more because they “... didn't have the words to mourn…” the family they lost. 
 
 
-## The Great Cheese Question
+## Fred Polak and his three children...
 
-As nachos spread northward into Texas, California, and eventually everywhere, they began to change. The original, simple version—chips, cheese, jalapeños—was just the beginning.
-
-What followed was ingredient proliferation. Some added beans. Some added meat. Some added sour cream, guacamole, salsa, olives, onions. Each region, each restaurant, each home cook claimed their version was the *real* nacho.
-
-This is where the Nacho Wars began.
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="nacho-variations" images=images_list %}
-
-**The variations tell a story about American food culture itself:**
-- The loaded nacho (everything on it) represents American maximalism.
-- The minimalist nacho (cheese only) represents purist nostalgia.
-- The upscale nacho (pulled pork, artisanal cheese, microgreens) represents food gentrification.
-
-Each is authentic to some version of nacho-dom. None is wrong. All are right.
+Most significantly, she helped hide Fred Polak and his three children at a house in the Dutch countryside. The Nazi’s, along with a Dutch collaborator, came looking for the hidden family, but were unsuccessful in finding them, as they had a designated hiding spot. But when the Dutch collaborator came back thirty minutes later, after the children had left their hiding spot, Marion shot him with a revolver she was gifted by an associate in the resistance. She had no desire to kill him, but worried that he would inform the authorities of the Polak families whereabouts. The Polak family survived the war because of her protection. Marion stated that she didn’t regret shooting the police officer, and would do it again under the same circumstances, but still felt unsure about the killing, having been raised religiously. Despite adhering to the faith, “…by 1945, I had lied, stolen, cheated, deceived and even killed."
 
 
-## From Café to Stadium to Home
 
-{% capture nachos_spread_text %}
-The path from invention to ubiquity was surprisingly quick. By the 1960s, nachos appeared at sporting events. By the 1970s, they were in movie theaters. By the 1980s, they were a Super Bowl staple. By the 1990s, every Mexican restaurant had them. By the 2000s, teenagers were making them in dorm rooms and kitchens everywhere.
+## Post-War Life
 
-What's remarkable about nachos is that they *scale*. You can make them for two people. You can make them for a crowd. You can make them fancy. You can make them with whatever is in the fridge. This scalability—this democratic quality—is why nachos became universal where other regional specialties remained regional.
+By the end of the war 75 - 80% of the Netherlands jewish population had been or murdered. And of the 107,000 Dutch jews deported to concentration camps, only 5,200 survived. After the war, Marion joined the United Nations Relief and Rehabilitation (UNNRA). She worked in social services at Föhrenwald and Windsheim, aiding individuals displaced by the war. There, she met Anton Pritchard, an American soldier who was also volunteering with the UNNRA, and they eventually married, moving to the United States and settling in Boston, Massachusetts. In 1981, she was named one of the Righteous Among the Nations by Yad Vashem in Jerusalem. She spent the rest of her life as a practicing psychoanalyst, and was awarded the Wallenberg Medal in 1992 for her actions during the Holocaust. 
 
-Salsa stayed Southwestern. Gumbo stayed Southern. Lobster rolls stayed coastal. But nachos? Nachos went everywhere.
-{% endcapture %}
+## Legacy
 
-{% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
-  image-position="left"
-  image-width="45%"
-  caption="Nachos at the ballpark: the moment when a border café specialty became an American institution."
-  text=nachos_spread_text
-%}
+Marion herself was not a subject of the terror of the Holocaust, but when it came time to take action, she was proactive in protecting those in society who need it most, children. At a young age she put herself in danger to help families in need. Many believe that resistance doesn’t matter, and doesn’t change anything. Marion saving the lives of jewish children and families during the war serves as a reminder that standing in opposition to injustice is a choice that we can all get to make.
 
 
-## The Sociology of Sharing
-
-{% include typography/pullquote.html text="\"A plate of nachos is a shared experience. You don't order nachos for yourself alone (or if you do, you feel vaguely foolish). Nachos are inherently social, inherently communal.\"" %}
-
-There's something in the structure of nachos—the individual pieces, the shared plate, the need to reach and grab—that makes them fundamentally *social*. You cannot eat nachos in isolation. You cannot eat nachos formally. Nachos demand casualness, conviviality, the awkward reaching-over-each-other-for-the-good-pieces that defines friends eating together.
-
-This is not accident. This is geometry and physics as social design.
-
-
-## The Future of Nachos
-
-The nacho has already survived one kind of challenge: constant reinvention. What comes next?
-
-Some restaurants have tried to elevate nachos to fine dining—truffled cheese, exotic meats, artisanal chips. Some have tried to make them health-conscious—cauliflower chips, dairy-free cheese. Some have pushed them into fusion territories—Korean nachos, Indian nachos, Thai nachos.
-
-But every time, the original simplicity—chips, cheese, jalapeños—calls us back. It's the baseline. It's the proof of concept. It's the reminder that the best foods are sometimes the ones born from constraint, from improvisation, from someone saying: "I have these ingredients and I'm hungry. What can I make?"
-
----
-
-**Further exploration:** Search for regional variations in your area. Try making them at home with different cheeses. Ask older family members where they first encountered nachos. The history of food is the history of where it went, not just where it came from.
